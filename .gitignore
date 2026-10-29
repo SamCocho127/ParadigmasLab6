@@ -5,7 +5,8 @@
 # ── Personal / machine-specific (never shared) ────
 /Machine/
 /temp/
-/Repos/
+/Repos/*
+!/Repos/AGENTS.md
 
 # ── Personal knowledge bases (optional: remove a line to share yours) ──
 # To keep your personal KB private, add it here:
@@ -24,3 +25,6 @@ __pycache__/
 *.pyc
 .env
 .env.local
+
+# Obsidian local UI state
+/Knowledge/Samir-Brain/.obsidian/workspace.json

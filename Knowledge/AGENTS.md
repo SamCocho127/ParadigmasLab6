@@ -17,6 +17,10 @@
 
 ## Personal Knowledge Base
 
+Memorias disponibles:
+
+- [Samir-Brain/](Samir-Brain/AGENTS.md) — Memoria persistente de Samir para UNA Chat. Empezar por [daily-log/status.md](Samir-Brain/daily-log/status.md).
+
 Each team member can create a personal subfolder:
 
 ```
